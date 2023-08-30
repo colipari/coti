@@ -1,0 +1,18 @@
+h1 {color: crimson;}
+
+p {color: black;
+
+font-size: 16px;}
+
+p {font-weight: bold;}
+
+img {
+    background-image: url(imagen/mg1.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 300px;}
+
+    div{font-weight: bold;}
+    a{text-decoration: none;color: blueviolet;
+    font-size: 26px;}
+
